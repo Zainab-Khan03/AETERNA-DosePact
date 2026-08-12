@@ -1,5 +1,5 @@
 // api/index.js
-import { createExpressApp } from '../server/index.js';
+import { createExpressApp } from '../server/index.ts';
 
 const app = createExpressApp();
 
