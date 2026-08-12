@@ -1,0 +1,6 @@
+{
+  "name": "Medication Adherence Hub",
+  "description": "Comprehensive medication schedule management, persistent alarm and photo verification, drug interaction analysis, and consumption analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
