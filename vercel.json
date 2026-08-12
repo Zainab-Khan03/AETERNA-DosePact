@@ -15,10 +15,5 @@
       "src": "/(.*)",
       "dest": "api/index.js"
     }
-  ],
-  "public": true,
-  "outputDirectory": "public",
-  "env": {
-    "NODE_ENV": "production"
-  }
+  ]
 }
