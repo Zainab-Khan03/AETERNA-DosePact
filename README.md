@@ -38,35 +38,5 @@
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- **Node.js**: v18+ 
-- **npm**: v9+
-
-### Installation & Execution
-
-1. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Set Up Environment Variables**:
-   Copy `.env.example` to `.env` and fill in your credentials:
-   ```env
-   MONGODB_URI="mongodb://localhost:27017/aeterna_dosepact"
-   JWT_SECRET="your-jwt-secret-key-here"
-   GEMINI_API_KEY="your-gemini-api-key"
-   ```
-
-3. **Start Development Server**:
-   ```bash
-   npm run dev
-   ```
-   The application will run on `http://localhost:3000`.
-
----
-
-## 📄 License
 
 Created for AETERNA DosePact Medication Adherence & GI Safety Platform.
